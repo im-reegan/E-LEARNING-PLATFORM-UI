@@ -28,3 +28,9 @@ Overall, this project showcases the ability to create a professional, interactiv
 demonstrates HTML structuring, CSS styling, responsive design, multimedia embedding, and user interaction design, which are essential skills for front-end development. By implementing course listings, progress tracking, and video content, the project provides a comprehensive and practical example of a real-world educational web interface. The completed design reflects both technical competence and a focus on creating engaging user experiences, making it a valuable addition to any developer’s portfolio.
 
 # OUTPUT
+
+<img width="1898" height="967" alt="Image" src="https://github.com/user-attachments/assets/1aa8fbdd-90fc-494d-b979-abb2ddc717a4" />
+
+<img width="1895" height="806" alt="Image" src="https://github.com/user-attachments/assets/147e091f-56d1-41af-a41d-28a092b3c27b" />
+
+<img width="1894" height="958" alt="Image" src="https://github.com/user-attachments/assets/af3e3993-8eb7-4733-a052-c07bec52db60" />
