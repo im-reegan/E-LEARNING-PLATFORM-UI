@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Course Details | Introduction to Web Development</title>
+  <style>
+    * { margin:0; padding:0; box-sizing:border-box; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; }
+    body { background:#f5f6fa; color:#333; }
+    
+    /* NAVIGATION */
+    nav {
+      display:flex;
+      justify-content:space-between;
+      align-items:center;
+      padding:1rem 2rem;
+      background:#1e1e2f;
+      color:#fff;
+      position:fixed;
+      width:100%;
+      z-index:1000;
+    }
+    nav .logo { font-weight:bold; font-size:1.5rem; }
+    nav ul { list-style:none; display:flex; }
+    nav ul li { margin-left:20px; }
+    nav ul li a { color:#fff; text-decoration:none; font-weight:500; }
+    nav ul li a:hover { color:#00bcd4; }
+
+    /* HEADER */
+    header { padding:120px 20px 60px 20px; text-align:center; background:#0b93a4; color:#fff; }
+    header h1 { font-size:2.5rem; margin-bottom:0.5rem; }
+    header p { font-size:1.1rem; max-width:700px; margin:auto; }
+
+    section { max-width:1200px; margin:auto; padding:60px 20px; }
+    section h2 { text-align:center; margin-bottom:40px; font-size:2rem; }
+    
+    /* VIDEO LINK */
+    .video-container { text-align:center; margin-bottom:40px; }
+    .video-container a { 
+      color:#00bcd4; 
+      font-weight:bold; 
+      font-size:1.2rem; 
+      text-decoration:none; 
+      background:#fff; 
+      padding:12px 20px; 
+      border-radius:8px;
+      box-shadow:0 4px 12px rgba(0,0,0,0.1);
+      transition:0.3s;
+    }
+    .video-container a:hover { background:#00bcd4; color:#fff; }
+
+    /* PROGRESS BAR */
+    .progress { background:#ddd; border-radius:12px; overflow:hidden; margin:20px 0; height:25px; }
+    .progress-bar { background:#00bcd4; height:100%; width:60%; text-align:center; color:#fff; line-height:25px; font-weight:bold; }
+
+    /* FOOTER */
+    footer { text-align:center; padding:40px 20px; background:#1e1e2f; color:#fff; margin-top:40px; }
+  </style>
+</head>
+<body>
+
+  <!-- NAVIGATION -->
+  <nav>
+    <div class="logo">E-Learn</div>
+    <ul>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="index.html#courses">Courses</a></li>
+      <li><a href="#">Contact</a></li>
+    </ul>
+  </nav>
+
+  <!-- HEADER -->
+  <header>
+    <h1>Introduction to Web Development</h1>
+    <p>Learn HTML, CSS, and JavaScript to build interactive and responsive websites from scratch.</p>
+  </header>
+
+  <section>
+    <h2>Course Video</h2>
+    <div class="video-container">
+      <a href="https://youtu.be/AvbFPDnXl_o" target="_blank">
+        Watch this course video on YouTube
+      </a>
+    </div>
+
+    <h2>Course Progress</h2>
+    <p>Current Progress:</p>
+    <div class="progress">
+      <div class="progress-bar">60%</div>
+    </div>
+
+    <h2>Course Description</h2>
+    <p>This course provides a step-by-step guide to front-end web development. You will learn the fundamentals of HTML, CSS, and JavaScript to build interactive and responsive websites. By the end of the course, students will be able to create their own websites, implement responsive designs, and understand core front-end principles. The course includes interactive exercises, embedded videos, and quizzes to track learning progress.</p>
+  </section>
+
+  <footer>
+    &copy; 2026 E-Learn Platform. All Rights Reserved.
+  </footer>
+
+</body>
+</html>
