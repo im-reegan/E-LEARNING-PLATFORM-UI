@@ -25,9 +25,6 @@ The Course Details page is designed to provide an immersive learning experience.
 The platform is fully responsive, adapting seamlessly to various screen sizes using CSS flexbox, grid layouts, and media queries. All elements, including text, images, buttons, and progress bars, scale proportionally to maintain readability and usability across devices. A consistent color scheme, clean typography, and adequate spacing ensure that the user interface remains aesthetically pleasing and easy to navigate. The design also emphasizes usability and accessibility by providing clear headings, concise content, and intuitive interaction cues.
 
 Overall, this project showcases the ability to create a professional, interactive front-end for an e-learning platform, combining functional components with modern design principles. The platform effectively 
+demonstrates HTML structuring, CSS styling, responsive design, multimedia embedding, and user interaction design, which are essential skills for front-end development. By implementing course listings, progress tracking, and video content, the project provides a comprehensive and practical example of a real-world educational web interface. The completed design reflects both technical competence and a focus on creating engaging user experiences, making it a valuable addition to any developer’s portfolio.
 
 # OUTPUT
-
-
-
-demonstrates HTML structuring, CSS styling, responsive design, multimedia embedding, and user interaction design, which are essential skills for front-end development. By implementing course listings, progress tracking, and video content, the project provides a comprehensive and practical example of a real-world educational web interface. The completed design reflects both technical competence and a focus on creating engaging user experiences, making it a valuable addition to any developer’s portfolio.
